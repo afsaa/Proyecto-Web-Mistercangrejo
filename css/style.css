@@ -1,0 +1,30 @@
+/*<----- Barra de navegación ----->*/
+
+/*<----- Carousel ----->*/
+#Slideshow{
+  padding-top: 45px;
+}
+/* Make the image fully responsive */
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-indicators li {
+  background-color: black;
+}
+/*<----- Imagenes About ----->*/
+.col-sm-6 img{
+  padding: 10px;
+}
+/*<----- Imagenes Menu ----->*/
+.card{
+  padding: 0;
+}
+.col-sm-3 img{
+  height: auto;
+}
+/*.col-sm-3 img{
+  padding-top: 12px;
+  padding-bottom: 12px;
+}*/
